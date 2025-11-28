@@ -1,0 +1,5 @@
+{
+  "name": "AI设备材料提取、设备成本预算",
+  "description": "基于 Gemini 视觉和搜索的一体化压力容器材料提取与造价估算工具。",
+  "requestFramePermissions": []
+}
